@@ -25,13 +25,5 @@ contract Saini
         return q;
     }
 
-    function loop(uint u) public pure returns (uint)
-    {
-        uint o;
-        for (o=0;o<=u;o++)
-        {
-              
-        }
-    
-    }
+   
 }
