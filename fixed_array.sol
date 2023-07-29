@@ -10,7 +10,7 @@ contract Saini
     {
 
         q[2]=555;  //update value at index two
-
+    
         delete q[4]; //delete the value at index four
     }
    
